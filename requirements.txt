@@ -46,7 +46,6 @@ colcon-ros==0.3.23
 colcon-test-result==0.3.8
 colcon-zsh==0.4.0
 colorama==0.4.3
-command-not-found==0.3
 configobj==5.0.6
 constantly==15.1.0
 contourpy==1.0.5
