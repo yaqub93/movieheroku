@@ -8,3 +8,4 @@ Pillow
 ipython
 ipympl
 voila
+pickle
