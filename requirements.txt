@@ -52,7 +52,6 @@ contourpy==1.0.5
 cov-core==1.15.0
 coverage==4.5.2
 cryptography==2.8
-cupshelpers==1.0
 cycler==0.10.0
 Cython==0.29.14
 dbus-python==1.2.16
