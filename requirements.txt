@@ -10,3 +10,6 @@ ipympl
 voila
 voila-material
 jupyter
+ipyvuetify
+voila-vuetify
+jupyterlab
