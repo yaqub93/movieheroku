@@ -15,9 +15,6 @@ beautifulsoup4==4.8.2
 bleach==4.1.0
 blinker==1.4
 breezy==3.0.2
-catkin-pkg==0.5.2
-catkin-pkg-modules==0.5.2
-catkin-tools==0.9.0
 cbor==1.0.0
 certifi==2019.11.28
 certipy==0.1.3
