@@ -1,7 +1,6 @@
 alembic==1.7.3
 altair==4.1.0
 anyio==3.6.1
-apturl==0.5.2
 argcomplete==1.8.1
 argon2-cffi==21.1.0
 async-generator==1.10
